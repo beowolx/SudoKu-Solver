@@ -55,12 +55,21 @@ You will only need Python installed on your computer. So you can get it directly
 
 Just download the repository here and open it with your TextEditor (I recommend Visual Studio Code).
 
-Then, inside of SudoKuSolver.py, you will find the `board` list that it's responsible to draw the Sudoku board. You'll need to put the numbers of the Sudoku you want to solve on it, where the 0 are the white fields. Be aware to write it exactly as it's in your Sudoku.
+
+
+
+Then, inside of SudoKuSolver.py, you will find the `board` list that it's responsible to draw the Sudoku board. You'll need to put the numbers of the Sudoku you want to solve it, where the 0 are the white fields. Be aware to write it exactly as it's in your Sudoku.
+
+
+
 
 After that just run the program and in a few seconds (around 2s) you will have the results.
 
 
+
+
 That's all.
+
 
 
 
